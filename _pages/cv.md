@@ -17,25 +17,29 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Student  Assistant
+  * Wuhan Technology and Business University
+  * Duties included: Construction, maintenance, and publication of school websites
+  * Supervisor: Miss. Man Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Fall 2020: Part-time Lecturer
+  * Sichuan University, Southwest Jiaotong University, Xi'an Jiaotong University, Xinjiang University, Panzhihua University
+  * Duties included:Training, practical training, teaching
+  * Supervisor: Mr. Delong Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Familiar with artificial intelligence algorithms (computer vision, recommendation systems)
+* Familiar with programming languages and tools
+  * Python
+  * C++
+  * Qt
+  * Java
+* Mechanism design and network framework
+* Auction of items
+* Unity
+* Tensorflow
 Publications
 ======
   <ul>{% for post in site.publications %}
