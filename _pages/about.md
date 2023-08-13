@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Personal Introduction
+About Me
 ======
 I am an autumn doctoral student majoring in Computer Science and Technology from Nanjing University of Aeronautics and Astronautics in China. I am honored to become and receive an offer from [Professor Yi](https://www.smilinnet.com/changyan/) of the SmilinNet (Intelligent Mobile 
 Innovation Network) research group. My research mainly focuses on tactile internet and edge intelligence. More related information can be found in our [magazine paper](https://arxiv.org/pdf/2304.07454.pdf). This involves exploring the integration of various network technologies, 
