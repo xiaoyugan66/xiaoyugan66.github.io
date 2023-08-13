@@ -6,7 +6,7 @@ excerpt: 'Tactile Internet (TI), with the capability of providing multisensory h
 date: 2023-4-15
 venue: 'magazine 1'
 paperurl: 'http://xianghao.github.io/files/paper1.pdf](https://arxiv.org/pdf/2304.07454.pdf'
-citation: ' Hao Xiang, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, Xuemin, Shen. (2023). &quot;Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study.&quot; <i>Magazine 1</i>. 1(1).'
+citation: '*Hao Xiang*, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, Xuemin, Shen. (2023). &quot;Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study.&quot; <i>Magazine 1</i>. 1(1).'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2304.07454.pdf)
