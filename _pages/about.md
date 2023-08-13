@@ -1,50 +1,57 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Personal Introduction
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am an autumn doctoral student majoring in Computer Science and Technology from Nanjing University of Aeronautics and Astronautics in China. I am honored to become and receive an offer from [Professor Yi](https://www.smilinnet.com/changyan/) of the SmilinNet (Intelligent Mobile 
+Innovation Network) research group. My research mainly focuses on tactile internet and edge intelligence. More related information can be found in our [magazine paper](https://arxiv.org/pdf/2304.07454.pdf). This involves exploring the integration of various network technologies, 
+including multi-objective Bayesian optimization, network optimization, and human digital twins. the tactile internet is a disruptive and forward-looking network transmission paradigm that has the potential to completely change all aspects of human life, from healthcare (specifically 
+physical therapy) to manufacturing. More relevant information can be found in our magazine documents. If you are interested in collaborating or just chatting, please feel free to contact me via email or add me on WeChat. How many battles can one achieve in life? In extraordinary times,
+double your efforts. On the day of the broken sword and the day of the knight's return! Achieve extraordinary things for you and me. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Biography
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Hao Xiang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. YI. since September 2022. From September 2019 to August 2022, he worked as a postgraduate in the College of information science and technology, Tibet University, China. He obtained Master's degrees from Tibet University in 2022, under the supervision of [Prof. zhicheng Dong](https://www.tuatrc.com:2021/). His recent research interests multi-objective bayesian, mechanism design, and decision making for various networking systems and services including:
+  - Tactile Internet
+  - Edge Computing and Edge Intelligence
+  - Human Digital Twin
 
-Site-wide configuration
+Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
+ - Phd Student: Fall 2022 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China
+ - Part Time Teacher: Fall 2020 to Summer 2022， Lecturer Course QT Project Training and Python Data Analysis，Xinjiang University, Sichuan University, Panzhihua College, Southwest Jiaotong University Enterprise Training Tutor，China
+   
+Selected Honors
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+ - National Scholarship for Master's Students of the People's Republic of China, 2021
+ - National Scholarship, Ministry of Education of the People's Republic of China, 2018
+ - Special commendation group award at the school level of Tibet University，2021
+ - Second prize at the school level and provincial level in the China Three Innovations Competition， 2021
+ - Third Prize in Sichuan and Southwest Regions of the China Optoelectronic Design Competition，2020
+ - Tibet University Graduate Scholarship，2019，2022
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Featured Publications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Hao Xiang, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, “Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study”.2023.4
+- Hao Xiang Ting Zhang*, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore.2020
+- Hao Xiang, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification" ,publication by the AlAM2021,Manchester UK, 2021
+- Bojun, LI,Hao Xiang,Cairang, XiangXiu,Nuo, QUN*, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China,2021(EI)
+- PengGu, YingXiao, Zhicheng Dong*,Hao Xiang, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
+- Zhijie Xiao, Zhicheng Dong, Hao Xiang. "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method",2022.
+- The first copyright of elk cloud computing service platform v1.0 based on Big data.
+- Zhe wen Li, Jing Wang,Hao Xiang,Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots "- Innovation project participant takes on the role of completing the software Development and publication of papers.
+- A network engineering junction box. Xiang Hao; Wei Yi; Wan Yu; Luo Yi; Huang Zhenwei. Chinese Patent: CN207572899U, 2018-07-03.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+My Hobbies
+------
+Bastketball，badminton，staring（干瞪眼),pragramming etc.
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If you want to learn more, you can add my contact information or try sending an email. Meeting is fate!
