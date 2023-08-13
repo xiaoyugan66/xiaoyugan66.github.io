@@ -3,7 +3,7 @@ title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/
 ---
-
+**leave a seat vacant for sb**
 A variety of common markup showing how the theme styles them.
 
 # Header one
