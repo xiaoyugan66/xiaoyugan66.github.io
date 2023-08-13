@@ -38,7 +38,7 @@ Selected Honors
 Featured Publications
 ------
 - **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, “Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study”.2023.4
-- **Hao Xiang**, Ting Zhang*, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore.2020
+- **Hao Xiang**, Ting Zhang, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore.2020
 - **Hao Xiang**, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification" ,publication by the AlAM2021,Manchester UK, 2021
 - Bojun, LI,**Hao Xiang**,Cairang, XiangXiu, Nuo QUN*, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China,2021(EI)
 - PengGu, YingXiao, Zhicheng Dong*,**Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
