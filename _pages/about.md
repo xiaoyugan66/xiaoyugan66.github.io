@@ -23,27 +23,27 @@ Hao Xiang has been with the College of Computer Science and Technology, Nanjing 
 
 Experience
 ------
- - Phd Student: Fall 2022 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China
- - Part Time Teacher: Fall 2020 to Summer 2022， Lecturer Course QT Project Training and Python Data Analysis，Xinjiang University, Sichuan University, Panzhihua College, Southwest Jiaotong University Enterprise Training Tutor，China
+ - Phd Student: Fall 2022 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
+ - Part Time Teacher: Fall 2020 to Summer 2022， Lecturer Course QT Project Training and Python Data Analysis，Xinjiang University, Sichuan University, Panzhihua College, Southwest Jiaotong University Enterprise Training Tutor，China.
    
 Selected Honors
 ------
- - National Scholarship for Master's Students of the People's Republic of China, 2021
- - National Scholarship, Ministry of Education of the People's Republic of China, 2018
- - Special commendation group award at the school level of Tibet University，2021
- - Second prize at the school level and provincial level in the China Three Innovations Competition， 2021
- - Third Prize in Sichuan and Southwest Regions of the China Optoelectronic Design Competition，2020
- - Tibet University Graduate Scholarship，2019，2022
+ - National Scholarship for Master's Students of the People's Republic of China, 2021.
+ - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
+ - Special commendation group award at the school level of Tibet University, 2021.
+ - Second prize at the school level and provincial level in the China Three Innovations Competition, 2021.
+ - Third Prize in Sichuan and Southwest Regions of the China Optoelectronic Design Competition, 2020.
+ - Tibet University Graduate Scholarship, 2019, 2022.
 
 Featured Publications
 ------
-- **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, “Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study”.2023.4
-- **Hao Xiang**, Ting Zhang, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore.2020
-- **Hao Xiang**, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification" ,publication by the AlAM2021,Manchester UK, 2021
-- Bojun, LI,**Hao Xiang**,Cairang, XiangXiu, Nuo QUN*, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China,2021(EI)
-- PengGu, YingXiao, Zhicheng Dong*,**Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
-- Zhijie Xiao, Zhicheng Dong, **Hao Xiang**, "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method",2022.
-- Zhe wen Li, Jing Wang,**Hao Xiang**,Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots "- Innovation project participant takes on the role of completing the software Development and publication of papers.
+- **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, “Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study”, 2023.4.
+- **Hao Xiang**, Ting Zhang, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore, 2020.
+- **Hao Xiang**, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification", publication by the AlAM2021, Manchester UK, 2021.
+- Bojun, LI, **Hao Xiang**,Cairang, XiangXiu, Nuo QUN, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China, 2021.
+- PengGu, YingXiao, Zhicheng Dong, **Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
+- Zhijie Xiao, Zhicheng Dong, **Hao Xiang**, "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method", 2022.
+- Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
 - **Xiang Hao**, Wei Yi; Wan Yu, Luo Yi; Huang Zhenwei, A network engineering junction box, Chinese Patent: CN207572899U, 2018-07-03.
 - The first copyright of elk cloud computing service platform v1.0 based on Big data.
 
