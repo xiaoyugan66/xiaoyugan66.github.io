@@ -11,4 +11,4 @@ citation: 'Xiang H , Zhang T , Li Z .Big data cloud platform server load balanci
 
 [Download paper here](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012116/pdf)
 
-Recommended citation: Xiang H , Zhang T , Li Z . "Xiang H , Zhang T , Li Z .Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm[J].Journal of Physics: Conference Series, 2021, 1982(1):012116-.DOI:10.1088/1742-6596/1982/1/012116..
+Recommended citation: Xiang H , Zhang T , Li Z . "Xiang H , Zhang T , Li Z .Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm[J].Journal of Physics: Conference Series, 2021, 1982(1):012116-.
