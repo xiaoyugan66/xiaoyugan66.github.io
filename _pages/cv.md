@@ -17,16 +17,14 @@ Education
 
 Work experience
 ======
-* Summer 2017: Student  Assistant
-  * Wuhan Technology and Business University
-  * Duties included: Construction, maintenance, and publication of school websites
-  * Supervisor: Miss. Man Wang
-
-
 * Fall 2020: Part-time Lecturer
   * Sichuan University, Southwest Jiaotong University, Xi'an Jiaotong University, Xinjiang University, Panzhihua University
   * Duties included:Training, practical training, teaching
   * Supervisor: Mr. Delong Li
+* Summer 2017: Student  Assistant
+  * Wuhan Technology and Business University
+  * Duties included: Construction, maintenance, and publication of school websites
+  * Supervisor: Miss. Man Wang
   
 Skills
 ======
