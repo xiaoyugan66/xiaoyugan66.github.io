@@ -49,7 +49,7 @@ Featured Publications
 
 My Hobbies
 ------
-Bastketball，badminton，staring（干瞪眼),pragramming etc.
+Bastketball, badminton，staring(干瞪眼), pragramming etc.
 
 For more info
 ------
