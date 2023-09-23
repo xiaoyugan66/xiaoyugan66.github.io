@@ -38,6 +38,7 @@ Skills
 * Auction of items
 * Unity
 * Tensorflow
+
 Publications
 ======
   <ul>{% for post in site.publications %}
