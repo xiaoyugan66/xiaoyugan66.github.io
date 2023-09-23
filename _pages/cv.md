@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, Wuahan Technology and Business University, 2015-2019
+* B.S. in Computer Science and Technology, Wuhan Technology and Business University, 2015-2019
 * M.S. in Computer Science and Technology, Tibet University, 2019-2022
 * Ph.D in Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, 2026 (expected)
 
