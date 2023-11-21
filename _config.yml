@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Xiang's Homepage"
+title                    : "Jingyi Fang's Homepage"
 title_separator          : "-"
-name                     : &name "Hao Xiang"
-description              : &description "A positive and optimistic Phd student"
+name                     : &name "Jingyi Fang"
+description              : &description "potential Phd student"
 url                      : https://xianghaoheihu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xianghaoheihu/xianghaoheihu.github.io"
