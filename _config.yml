@@ -11,9 +11,9 @@ title                    : "Jingyi Fang's Homepage"
 title_separator          : "-"
 name                     : &name "Jingyi Fang"
 description              : &description "potential Phd student"
-url                      : https://xianghaoheihu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaoyugan66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xianghaoheihu/xianghaoheihu.github.io"
+repository               : "xiaoyugan66/xiaoyugan66.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Xiang(向浩)"
+  name             : "Jingyi Fang"
   avatar           : "profile.png"
-  bio              : "A doctoral student"
-  location         : "Nanjing City, Jiangsu Province"
+  bio              : "A poteential PhD student"
+  location         : "Soochow, Jiangsu Province"
   employer         :
-  wechat           : "https://github.com/xianghaoheihu/haoxiang.github.io/images/weixin.png"
+  wechat           : "https://github.com/xianghaohu/haoxiang.github.io/images/weixin.png"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "xianghaoheihu@gmail.com"
+  email            : "fangjingyiabby@163.com"
   researchgate     : "https://www.researchgate.net/profile/Xiang-Hao-14" 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xianghaoheihu"
+  github           : "xiaoyugan66"
   google_plus      :
   keybase          :
   instagram        :
